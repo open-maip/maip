@@ -10,13 +10,13 @@
 
 ## 系统架构图
 
-![系统架构图](.\系统架构图2.png)
+![系统架构图](https://github.com/open-maip/maip/blob/master/docs/pic/系统架构图2.png)
 
 
 
 ## 业务架构图
 
-![业务架构图](.\业务架构图.png)
+![业务架构图](https://github.com/open-maip/maip/blob/master/docs/pic/业务架构图.png)
 
 
 
